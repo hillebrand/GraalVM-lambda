@@ -1,0 +1,5 @@
+
+rootProject.name="GraalVM-lambda"
+
+include("app")
+include("infra")
